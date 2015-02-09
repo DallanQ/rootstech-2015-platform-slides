@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bbcab14-7814-42dc-8c25-b7c25752a005" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/catch.jpg" afterPath="$PROJECT_DIR$/images/catch.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/construction.jpg" afterPath="$PROJECT_DIR$/images/construction.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/evidence.jpg" afterPath="$PROJECT_DIR$/images/evidence.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/invite.jpg" afterPath="$PROJECT_DIR$/images/invite.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/platform.jpg" afterPath="$PROJECT_DIR$/images/platform.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rootstech-2015-platform-slides.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3525836" vertical-offset="5796" max-vertical-offset="6864">
-              <caret line="512" column="22" selection-start-line="512" selection-start-column="22" selection-end-line="512" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.8605108" vertical-offset="4140" max-vertical-offset="6876">
+              <caret line="418" column="15" selection-start-line="418" selection-start-column="15" selection-end-line="418" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#1;n#ul#0;n#section#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -125,11 +123,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5bbcab14-7814-42dc-8c25-b7c25752a005" name="Default" comment="" />
@@ -188,8 +190,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3525836" vertical-offset="5796" max-vertical-offset="6864">
-          <caret line="512" column="22" selection-start-line="512" selection-start-column="22" selection-end-line="512" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.8605108" vertical-offset="4140" max-vertical-offset="6876">
+          <caret line="418" column="15" selection-start-line="418" selection-start-column="15" selection-end-line="418" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#1;n#ul#0;n#section#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />

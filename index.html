@@ -523,6 +523,30 @@ ChangeID
 				</section>
 
 				<section>
+					<h2>REST<span class="em">-ish</span> API</h2>
+					<ul>
+						<li>GET, POST, PUT, DELETE verbs</li>
+						<li>No unique content types - everything is application/json
+							<ul style="font-size: 28px">
+								<li>If you request a person, you get back a person</li>
+								<li>If you request an event, you get back an event</li>
+							</ul>
+						</li>
+						<li>API version is part of the request URI</li>
+						<li>HATEOS?</li>
+					</ul>
+					<aside class="notes">
+						<ul>
+							<li>matches what you typically see in Web APIs</li>
+							<li>content headers don't work well in browsers - redirects</li>
+							<li>Currently I haven't implemented HATEOS</li>
+							<li>worry about links becoming stale</li>
+							<li>could be talked into it though</li>
+						</ul>
+					</aside>
+				</section>
+
+				<section>
 					<h2>Request for Comments</h2>
 					<img src="images/comments.jpg" alt="" width="600"/>
 				</section>
